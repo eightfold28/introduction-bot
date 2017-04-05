@@ -7,6 +7,13 @@
   text-align: center;
 }
 
+.grid-top:hover .b-from-left{
+  left:0;
+}
+.grid-top{
+  position: relative;
+}
+
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
